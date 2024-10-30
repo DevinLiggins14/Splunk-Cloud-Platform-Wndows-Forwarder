@@ -94,3 +94,4 @@ index="_internal" sourcetype="splunkd" component="Metrics" group="per_host_thrup
 ## This data can then be saved and visualized into a dashboard:
 
 <img src="https://github.com/user-attachments/assets/e7478745-8ea8-41ec-997e-fe171e1a34a0"/>
+<img src="https://github.com/user-attachments/assets/0e6fb6c6-443e-4073-97bb-27e0b1a1bf03"/>
