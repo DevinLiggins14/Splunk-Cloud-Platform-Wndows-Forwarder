@@ -90,3 +90,7 @@ index="_internal" sourcetype="splunkd" component="Metrics" group="per_host_thrup
 ```
 
 <img src="https://github.com/user-attachments/assets/edb2eca5-6885-4a9f-9237-b1731f1d4a1b"/>
+
+## This data can then be saved and visualized into a dashboard:
+
+<img src="https://github.com/user-attachments/assets/e7478745-8ea8-41ec-997e-fe171e1a34a0"/>
